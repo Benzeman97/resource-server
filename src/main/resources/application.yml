@@ -1,3 +1,4 @@
+
 server:
   port: 9090
 
@@ -10,4 +11,3 @@ spring:
   jackson:
     serialization:
       INDENT_OUTPUT: true
-
